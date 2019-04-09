@@ -1,0 +1,17 @@
+Id,Designator,Package,Quantity,Designation
+2,U3,DCR010505U,1,DCR010505U
+4,U1,SSOP-28_5.3x10.2mm_Pitch0.65mm,1,FT232RL
+5,"R7,R6,R8,R9",R_0805_HandSoldering,4,10kΩ
+6,"R5,R4",R_0805_HandSoldering,2,330Ω
+7,FB1,R_0805_HandSoldering,1,40Ω @ 100 MHz
+8,"C10,C5,C2",C_0805_HandSoldering,3,100nF
+9,C9,C_0805_HandSoldering,1,1µF
+10,"C8,C1",C_1210_HandSoldering,2,4.7µF
+11,C7,C_0805_HandSoldering,1,10µF
+12,"C6,C4",C_0805_HandSoldering,2,47nF
+13,C3,C_0805_HandSoldering,1,10nF
+18,"U4,U5",VSSOP-8,2,TS5A21366
+20,"R1,R3",R_0805_HandSoldering,2,390Ω
+21,R2,R_0805_HandSoldering,1,220Ω
+22,Fiducial,Fiducial_1mm_Dia_2.54mm_Outer_CopperTop,1,Fiducial_1mm_Dia_2.54mm_Outer_CopperTop
+23,Fiducial,Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom,1,Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom

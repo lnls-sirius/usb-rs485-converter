@@ -1,0 +1,40 @@
+Referência no esquemático; Encapsulamento; Fabricante; PN do fabricante; Em estoque?
+
+
+C1, C8          SMD 1210                          Murata                GRM32ER71H475KA88L     Sim
+C2, C5, C10     SMD 0805                          AVX                   08051C104JAT2A         Sim
+C3              SMD 0805                          Murata                GRM2195C1H103JA01D     Sim
+C4, C6          SMD 0805                          AVX                   08051C473JAT2A         Sim
+C7              SMD 0805                          Samsung               CL21A106KOQNNNE        Sim
+C9              SMD 0805                          AVX                   08053C105JAT2A         Sim
+
+
+D1              Específico                        Lumex                 SSF-LXH305YD-TR        Sim
+D1              Específico                        Lumex                 SSF-LXH305YD-TR        Sim
+
+
+FB1             SMD 0805                          Laird                 MI0805K400R-10         Não (será pedido na próxima importação)
+
+
+P1              USB mini-B (receptáculo)          Molex                 0548190519             Sim
+P2              Barra de pinos, 2x4, 90 graus     Würth Elektronik      61300821021            Sim (compatível)
+P3              RJ25 (jack)                       TE Connectivity       5555165-1              Sim
+
+
+R9, R10         SMD 0805                          Vishay Dale           CRCW0805390RFKEA       Não (será pedido na próxima importação)
+R8              SMD 0805                          KOA Speer             RK73H2ATTD2200F        Sim
+R4, R5          SMD 0805                          Royal Ohm             0805W8F3300T5E         Sim
+R6, R7          SMD 0805                          Royal Ohm             0805W8F1002T5E         Sim
+R8, R9		SMD 0805			  ??			??		       Sim
+(10k)
+
+
+U1              SSOP-28                           FTDI                  FT232RL                Sim
+U2              0.3" SOIC-16                      NVE                   IL3685E                Sim
+U3              SO-28                             Texas Instruments     DCR010505U             Não (está na compra da Digi-Key que chegará em breve)
+U4, U5		VSSOP-8				  Texas Instruments	TS5A21366DCUR	       Sim
+
+SW1		DIP Switch 2 posições		  Würth Elektronik	418217170902	       Não (está na compra da Digi-Key que chegará em breve)
+
+
+** 4 jumpers com pitch de 2,54 mm são necessários para as configurações no conector P2.

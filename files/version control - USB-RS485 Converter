@@ -1,0 +1,20 @@
+USB / RS485 Converter - Version Control
+
+- version 1.0:
+	- first prototype
+
+- version 2.0:
+	- positions of chips changed
+	- new P2 connector (DIP switch instead of headers and jumpers)
+	- digital switches TS5A21366 added
+	- two different ground planes (GND and GND_ISOLATED)
+	- subtitle added (LNLS logo, description, tag for notes)
+	- USB connector 0.4mm farther from the PCB edge
+
+- version 2.1:
+	- subtitle modified (bigger LNLS logo and tag, thinner letters, logo with more definition)
+	- ground plane vias added (for both GND and GND_ISOLATED)
+
+- version 2.2:
+	- LED pins connected through bottom layer tracks and vias
+
